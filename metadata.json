@@ -1,0 +1,6 @@
+{
+  "name": "Gurukul Coaching Portal",
+  "description": "A multi-tenant role-based coaching management portal for Classes 1-8 based on the official NCERT curriculum, featuring syllabus tracking, automated AI worksheet generation, attendance logs, and a financial ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
